@@ -8,3 +8,14 @@
 8. ayuda - https://dle.rae.es/ayuda?m=form
 9. obligado - https://dle.rae.es/obligado?m=form
 10. aprobado - https://dle.rae.es/aprobado?m=form
+
+casa - https://dle.rae.es/casa
+programación - https://dle.rae.es/programación
+algoritmo - https://dle.rae.es/algoritmo
+variable - https://dle.rae.es/variable
+función - https://dle.rae.es/función
+método - https://dle.rae.es/método
+clase - https://dle.rae.es/clase
+objeto - https://dle.rae.es/objeto
+programa - https://dle.rae.es/programa
+ordenador - https://dle.rae.es/ordenador
